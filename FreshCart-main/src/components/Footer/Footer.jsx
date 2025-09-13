@@ -41,7 +41,7 @@ export default function Footer() {
           </ul>
         </div>
   <div className="text-center mt-3">
-  <span className="small text-muted">© {new Date().getFullYear()} FreshCart eCommerce. All rights reserved.</span>
+  <span className="small text-muted">© {new Date().getFullYear()} Ali Kablan eCommerce. All rights reserved.</span>
   </div>
     </div>
     </div>

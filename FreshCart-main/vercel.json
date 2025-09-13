@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "installCommand": "npm ci || npm install",
+  "outputDirectory": "build",
+  "framework": null,
+  "git": {
+    "deploymentEnabled": {
+      "main": true
+    }
+  }
+}
